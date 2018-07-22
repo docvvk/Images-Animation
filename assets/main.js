@@ -1,4 +1,5 @@
-            var THREE = require("three");
+			var THREE = require('./three');
+			console.log(THREE);
 
 			var container, stats;
 
